@@ -1,0 +1,2 @@
+"ensembl_gene_id","logFC","logCPM","LR","PValue","FDR","gene_biotype","chromosome_name","external_gene_id"
+"ENSG00000136999",-2.350111256873,5.84424348520341,25.9734537745627,3.46144454092203e-07,0.00924136463535364,"protein_coding","8","NOV"
